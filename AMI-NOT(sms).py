@@ -4,7 +4,7 @@
 from colorama import init, Fore
 init()
 from random import choice, randint
-print("                                                          ")
+print("                                                                                                                                                                ")
 print(Fore.RED+'      》》》》》》》》 SMS BOMBER AMI-NOT《《《《《《《《')
 print("                                                                                                                      ")
 print(Fore.GREEN+'''
